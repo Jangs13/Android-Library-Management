@@ -12,7 +12,6 @@ book.
                                                      ![output_k7hkqi](https://user-images.githubusercontent.com/29729380/50546545-415bdd80-0c4f-11e9-83a0-ade901e95cb6.gif)
                                                     ![output_7vy2od](https://user-images.githubusercontent.com/29729380/50546559-8aac2d00-0c4f-11e9-970c-946254e9dc3f.gif)
 
-Android Library Management System is an android app which helps to manage library through an android smartphone.
 
 
 ## Installation
