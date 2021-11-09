@@ -20,6 +20,12 @@ Android Library Management System is an android app which helps to manage librar
 4. Add new Book section
 5. Check Book Availibility
 
+# Advantages
+
+* The system excludes the use of paper work by managing all the book information electronically.
+* Admin can keep updating the system by providing the new books arrival in system and their availability thus students need not to go to library for issuing purpose.
+* The system has books well organized and systematically arranged in different categories in the system so that user can easily search and find the book.
+* Thus, it saves human efforts and resources.
 
 
 
