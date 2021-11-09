@@ -1,4 +1,12 @@
 # ANDROID LIBRARY MANAGEMENT SYSTEM 
+
+With the increase in the number of readers, better management of libraries system is required. The
+Library management system focuses on improving the management of libraries in college.
+The Integrated Library Management
+system provides you the ease of issuing, renewing, or reserving a book from an library within your
+college through your phone. The Integrated Library Management system is developed on the
+android platform with the help of barcode scanner which basically focuses on issuing, returning the
+book.
  
  ![tf](https://user-images.githubusercontent.com/29729380/50545488-4dd63b00-0c3b-11e9-82cc-c671f1e070b8.gif)![output_amrlrj](https://user-images.githubusercontent.com/29729380/50546540-02c62300-0c4f-11e9-8af5-b66e1bb92055.gif)
                                                      ![output_k7hkqi](https://user-images.githubusercontent.com/29729380/50546545-415bdd80-0c4f-11e9-83a0-ade901e95cb6.gif)
